@@ -42,11 +42,9 @@ Install [Node.js](https://nodejs.org/), which includes npm.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Satyanarayana001/cheerio-clickable-product
 cd cheerio-clickable-product
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Install Dependencies
 
